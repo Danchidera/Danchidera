@@ -2,7 +2,7 @@
 <h2>👨‍💻 SOC Analyst Projects:</h2>
 
 - <b>Malware Traffic Analysis Using WireShark (Network & Security Basics)</b>
-  - [Collecting IOC's from Malware PCAP Files on WireShark](https://github.com/Danchidera/)
+  - [Collecting IOC's from Malware PCAP Files on WireShark](https://github.com/Danchidera/Malware-Traffic-Analysis-/tree/main)
 
 <h2><img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/9b5ec148-1ae2-4cf0-9341-0bfdc72f3751" />
  Certifications</h2>
